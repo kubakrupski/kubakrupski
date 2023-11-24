@@ -1,16 +1,21 @@
+![Banner](https://res.cloudinary.com/dmnyemgeu/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1700830437/github/m1xx3y0qbzttivbgznoj.jpg?_s=public-apps)
+
 ### Hi there 👋
 
-<!--
-**kubakrupski/kubakrupski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer with a keen eye for creating dynamic and visually appealing web applications. My journey in the world of programming began with a love for crafting interactive user interfaces and has since evolved into a full-fledged career.
 
-Here are some ideas to get you started:
+#### 🍿 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Crafting responsive and pixel-perfect user interfaces using modern web technologies.
+
+#### 🚀 My Skills:
+
+Next Js · React Js · Typescript · Node Js · React query · Redux · Zustand · Tailwind Css · MongoDB · PostgreSQL · Styled · Tailwind Css
+
+#### 🌱 Always Learning:
+
+I'm committed to staying on top of industry trends and continuously expanding my skill set. Currently exploring [T3](https://create.t3.gg/) stack.
+
+Let's connect, collaborate 👯, and build amazing things together! 🚀
+
+⚡ *In programming, as in life, the value lies in continuous development* ⚡
